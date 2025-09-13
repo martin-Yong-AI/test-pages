@@ -1,0 +1,221 @@
+[Movie Node Start]
+Rank: 1
+Title: A Chinese Odyssey Part Two: Cinderella
+Genre: Comedy
+Director Name: Jeffrey Lau
+Studio: Film Workshop
+Year: 1995
+Country: Hong Kong China
+Rating: 9.2
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 2
+Title: The Shawshank Redemption
+Genre: Crime
+Director Name: Frank Darabont
+Studio: Castle Rock Entertainment
+Year: 1994
+Country: United States
+Rating: 9.7
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 3
+Title: Farewell My Concubine
+Genre: Drama
+Director Name: Chen Kaige
+Studio: Tomson Films
+Year: 1993
+Country: Mainland China
+Rating: 9.6
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 4
+Title: Titanic
+Genre: Drama
+Director Name: James Cameron
+Studio: 20th Century Fox
+Year: 1997
+Country: United States
+Rating: 9.5
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 5
+Title: Forrest Gump
+Genre: Drama
+Director Name: Robert Zemeckis
+Studio: Paramount Pictures
+Year: 1994
+Country: United States
+Rating: 9.5
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 6
+Title: Spirited Away
+Genre: Animation
+Director Name: Hayao Miyazaki
+Studio: Studio Ghibli
+Year: 2001
+Country: Japan
+Rating: 9.4
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 7
+Title: Life Is Beautiful
+Genre: Romance
+Director Name: Roberto Benigni
+Studio: Cecchi Gori Pictures
+Year: 1997
+Country: Italy
+Rating: 9.5
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 8
+Title: Léon: The Professional
+Genre: Action
+Director Name: Luc Besson
+Studio: Columbia Pictures
+Year: 1994
+Country: France
+Rating: 9.4
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 9
+Title: Interstellar
+Genre: Adventure
+Director Name: Christopher Nolan
+Studio: Paramount Pictures
+Year: 2014
+Country: United States
+Rating: 9.4
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 10
+Title: Inception
+Genre: Mystery
+Director Name: Christopher Nolan
+Studio: Warner Bros. Pictures
+Year: 2010
+Country: United States
+Rating: 9.4
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 11
+Title: The Truman Show
+Genre: Sci-Fi
+Director Name: Peter Weir
+Studio: Paramount Pictures
+Year: 1998
+Country: United States
+Rating: 9.4
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 12
+Title: Schindler's List
+Genre: War
+Director Name: Steven Spielberg
+Studio: Universal Pictures
+Year: 1993
+Country: United States
+Rating: 9.5
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 13
+Title: Hachi: A Dog's Tale
+Genre: Drama
+Director Name: Lasse Hallström
+Studio: Stage 6 Films
+Year: 2009
+Country: United States
+Rating: 9.4
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 14
+Title: The Legend of 1900
+Genre: Music
+Director Name: Giuseppe Tornatore
+Studio: Medusa Film
+Year: 1998
+Country: Italy
+Rating: 9.3
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 15
+Title: 3 Idiots
+Genre: Comedy
+Director Name: Rajkumar Hirani
+Studio: Vinod Chopra Films
+Year: 2009
+Country: India
+Rating: 9.2
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 16
+Title: Zootopia
+Genre: Animation
+Director Name: Byron Howard
+Director Name: Rich Moore
+Studio: Walt Disney Animation Studios
+Year: 2016
+Country: United States
+Rating: 9.2
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 17
+Title: The Chorus
+Genre: Music
+Director Name: Christophe Barratier
+Studio: Pathé, StudioCanal
+Year: 2004
+Country: France
+Rating: 9.3
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 18
+Title: WALL·E
+Genre: Sci-Fi
+Director Name: Andrew Stanton
+Studio: Pixar Animation Studios
+Year: 2008
+Country: United States
+Rating: 9.3
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 19
+Title: Infernal Affairs
+Genre: Crime
+Director Name: Andrew Lau
+Director Name: Alan Mak
+Studio: Media Asia Films
+Year: 2002
+Country: Hong Kong China
+Rating: 9.3
+[Movie Node End]
+
+[Movie Node Start]
+Rank: 20
+Title: Witness for the Prosecution
+Genre: Crime
+Director Name: Billy Wilder
+Studio: United Artists
+Year: 1957
+Country: United States
+Rating: 9.6
+[Movie Node End]

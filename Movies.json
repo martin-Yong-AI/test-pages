@@ -1,0 +1,244 @@
+[
+    {
+        "rank": 1,
+        "title": "A Chinese Odyssey Part Two",
+        "genre": "Comedy",
+        "directors": [
+            "Jeffrey Lau"
+        ],
+        "studio": "Film Workshop",
+        "year": 1995,
+        "country": "Hong Kong China",
+        "rating": 9.2
+    },
+    {
+        "rank": 2,
+        "title": "The Shawshank Redemption",
+        "genre": "Crime",
+        "directors": [
+            "Frank Darabont"
+        ],
+        "studio": "Castle Rock Entertainment",
+        "year": 1994,
+        "country": "United States",
+        "rating": 9.7
+    },
+    {
+        "rank": 3,
+        "title": "Farewell My Concubine",
+        "genre": "Drama",
+        "directors": [
+            "Chen Kaige"
+        ],
+        "studio": "Tomson Films",
+        "year": 1993,
+        "country": "Mainland China",
+        "rating": 9.6
+    },
+    {
+        "rank": 4,
+        "title": "Titanic",
+        "genre": "Drama",
+        "directors": [
+            "James Cameron"
+        ],
+        "studio": "20th Century Fox",
+        "year": 1997,
+        "country": "United States",
+        "rating": 9.5
+    },
+    {
+        "rank": 5,
+        "title": "Forrest Gump",
+        "genre": "Drama",
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "studio": "Paramount Pictures",
+        "year": 1994,
+        "country": "United States",
+        "rating": 9.5
+    },
+    {
+        "rank": 6,
+        "title": "Spirited Away",
+        "genre": "Animation",
+        "directors": [
+            "Hayao Miyazaki"
+        ],
+        "studio": "Studio Ghibli",
+        "year": 2001,
+        "country": "Japan",
+        "rating": 9.4
+    },
+    {
+        "rank": 7,
+        "title": "Life Is Beautiful",
+        "genre": "Romance",
+        "directors": [
+            "Roberto Benigni"
+        ],
+        "studio": "Cecchi Gori Pictures",
+        "year": 1997,
+        "country": "Italy",
+        "rating": 9.5
+    },
+    {
+        "rank": 8,
+        "title": "L\u00e9on",
+        "genre": "Action",
+        "directors": [
+            "Luc Besson"
+        ],
+        "studio": "Columbia Pictures",
+        "year": 1994,
+        "country": "France",
+        "rating": 9.4
+    },
+    {
+        "rank": 9,
+        "title": "Interstellar",
+        "genre": "Adventure",
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "studio": "Paramount Pictures",
+        "year": 2014,
+        "country": "United States",
+        "rating": 9.4
+    },
+    {
+        "rank": 10,
+        "title": "Inception",
+        "genre": "Mystery",
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "studio": "Warner Bros. Pictures",
+        "year": 2010,
+        "country": "United States",
+        "rating": 9.4
+    },
+    {
+        "rank": 11,
+        "title": "The Truman Show",
+        "genre": "Sci-Fi",
+        "directors": [
+            "Peter Weir"
+        ],
+        "studio": "Paramount Pictures",
+        "year": 1998,
+        "country": "United States",
+        "rating": 9.4
+    },
+    {
+        "rank": 12,
+        "title": "Schindler's List",
+        "genre": "War",
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "studio": "Universal Pictures",
+        "year": 1993,
+        "country": "United States",
+        "rating": 9.5
+    },
+    {
+        "rank": 13,
+        "title": "Hachi",
+        "genre": "Drama",
+        "directors": [
+            "Lasse Hallstr\u00f6m"
+        ],
+        "studio": "Stage 6 Films",
+        "year": 2009,
+        "country": "United States",
+        "rating": 9.4
+    },
+    {
+        "rank": 14,
+        "title": "The Legend of 1900",
+        "genre": "Music",
+        "directors": [
+            "Giuseppe Tornatore"
+        ],
+        "studio": "Medusa Film",
+        "year": 1998,
+        "country": "Italy",
+        "rating": 9.3
+    },
+    {
+        "rank": 15,
+        "title": "3 Idiots",
+        "genre": "Comedy",
+        "directors": [
+            "Rajkumar Hirani"
+        ],
+        "studio": "Vinod Chopra Films",
+        "year": 2009,
+        "country": "India",
+        "rating": 9.2
+    },
+    {
+        "rank": 16,
+        "title": "Zootopia",
+        "genre": "Animation",
+        "directors": [
+            "Byron Howard",
+            "Rich Moore"
+        ],
+        "studio": "Walt Disney Animation Studios",
+        "year": 2016,
+        "country": "United States",
+        "rating": 9.2
+    },
+    {
+        "rank": 17,
+        "title": "The Chorus",
+        "genre": "Music",
+        "directors": [
+            "Christophe Barratier"
+        ],
+        "studio": "Path\u00e9, StudioCanal",
+        "year": 2004,
+        "country": "France",
+        "rating": 9.3
+    },
+    {
+        "rank": 18,
+        "title": "WALL\u00b7E",
+        "genre": "Sci-Fi",
+        "directors": [
+            "Andrew Stanton"
+        ],
+        "studio": "Pixar Animation Studios",
+        "year": 2008,
+        "country": "United States",
+        "rating": 9.3
+    },
+    {
+        "rank": 19,
+        "title": "Infernal Affairs",
+        "genre": "Crime",
+        "directors": [
+            "Andrew Lau",
+            "Alan Mak"
+        ],
+        "studio": "Media Asia Films",
+        "year": 2002,
+        "country": "Hong Kong China",
+        "rating": 9.3
+    },
+    {
+        "rank": 20,
+        "title": "Witness for the Prosecution",
+        "genre": "Crime",
+        "directors": [
+            "Billy Wilder"
+        ],
+        "studio": "United Artists",
+        "year": 1957,
+        "country": "United States",
+        "rating": 9.6
+    }
+]
